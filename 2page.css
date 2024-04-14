@@ -1,0 +1,23 @@
+body{
+    background-color: aqua; 
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;                  
+    }
+    img{
+        position: relative;
+        left:-830px;
+        top:-300px;
+    }
+    h1{
+        position: relative;
+        color: rgb(250, 92, 0);
+        top:-550px;
+    }
+        
+    
+    div{
+        top: 10000px;
+    }
+   

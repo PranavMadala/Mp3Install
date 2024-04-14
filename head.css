@@ -1,0 +1,91 @@
+
+
+ .form input{
+ width:100%;
+ height:35px;
+ padding-top:5px;
+ margin-bottom:30px;
+	}
+
+
+
+h1{
+color: rgb(215, 248, 248);
+font-family:lucida;
+letter-spacing: 8px;
+position: relative;
+left: 7px;
+top: -5px;
+	}
+ 
+body{
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+font-size: 150%;
+color: rgb(218, 221, 8);
+	}
+
+body{
+background-image:url('[FREE\ -\ HDconvert.com]\ download.png');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+	}
+
+img{
+max-width: 350px;
+align-items: normal;
+	}
+	
+
+
+
+button{
+background:  rgb(164, 185, 56);
+border: 4px  rgb(27, 25, 25);
+border-radius: 29px;
+font-weight: bold;
+cursor: pointer;
+outline: none;
+font-family:Gencis;
+font-size: 25PX;
+	}
+
+button:hover {
+border-color: 4px solid black;
+background: rgb(131, 113, 92)
+	}
+
+input[type=reset]{
+background:  rgb(227, 235, 191);
+border: 4px  rgb(27, 25, 25);
+border-radius: 29px;
+font-weight: bold;	
+cursor: pointer;
+outline: none;
+font-family:Gencis;
+font-size: 25PX;
+	}
+
+input[type=reset]:hover{
+border-color: 4px solid black;
+background: rgb(131, 113, 92)
+	}
+
+	
+	p{
+		color:whitesmoke;
+		font-size: 15px;
+	}
+
+	.wraper{
+		
+		font-size: 17px;
+		font-weight: bold;	
+		cursor: pointer;
+		outline: none;
+		
+	}
+	
